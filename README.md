@@ -15,7 +15,7 @@ To download the Sentinel tool:
 ```bash
 git clone https://github.com/presto-osu/Sentinel.git
 cd Sentinel
-curl https://github.com/presto-osu/Sentinel/releases/download/v1.0/Apps.tar.gz --output Apps.tar.gz
+curl https://github.com/presto-osu/Sentinel/releases/download/1.1/Apps.tar.gz --output Apps.tar.gz
 tar -xf Apps.tar.gz
 ```
 
